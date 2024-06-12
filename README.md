@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá eu sou Anne, estudo no Francisco Cristiano e estou na 2ª Série do Ensino Médio 👋
 
 <!--
 **anneknb2c/anneknb2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
